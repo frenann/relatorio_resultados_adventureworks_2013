@@ -37,6 +37,8 @@ Vendas por Perfil de Cliente
 
 Analisar a distribuição das vendas entre diferentes grupos de clientes, possibilitando a identificação de padrões de consumo e oportunidades de segmentação comercial.
 
+<br>
+
 **🏗️ Metodologia**
 
 Foi desenvolvida uma view analítica denominada VENDAS_INTERNET, responsável por consolidar dados provenientes de diferentes áreas do negócio.
@@ -50,6 +52,8 @@ Estrutura de produtos;
 Territórios de vendas.
 
 A consolidação dos dados foi realizada por meio de consultas SQL utilizando múltiplos relacionamentos entre tabelas fato e dimensão.
+
+<br>
 
 🔄 Processo de Integração
 Extração
