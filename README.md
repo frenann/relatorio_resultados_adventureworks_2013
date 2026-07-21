@@ -21,19 +21,19 @@ Desenvolver uma base analítica que permita monitorar o desempenho das operaçõ
 
 <br>
 
-Vendas por Categoria de Produto
+- Vendas por Categoria de Produto
 
 Avaliar quais categorias apresentam maior volume de vendas e contribuição para o faturamento da empresa, permitindo identificar os segmentos mais relevantes para o negócio.
 
-Receita por Mês
+- Receita por Mês
 
 Analisar a evolução das receitas ao longo do período estudado, identificando sazonalidades, tendências de crescimento e períodos de maior desempenho comercial.
 
-Receita e Custo por País
+- Receita e Custo por País
 
 Comparar o desempenho financeiro entre os diferentes mercados atendidos pela empresa, avaliando não apenas a geração de receita, mas também os custos associados às operações.
 
-Vendas por Perfil de Cliente
+- Vendas por Perfil de Cliente
 
 Analisar a distribuição das vendas entre diferentes grupos de clientes, possibilitando a identificação de padrões de consumo e oportunidades de segmentação comercial.
 
