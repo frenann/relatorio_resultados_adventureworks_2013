@@ -1,6 +1,5 @@
 # Relatório de Vendas Online 
 
-Relatório de Análise de Vendas Online
 
 **📖 Contexto do Negócio**
 
