@@ -15,6 +15,8 @@ O escopo da análise contempla as vendas realizadas durante o ano de 2013, consi
 
 Desenvolver uma base analítica que permita monitorar o desempenho das operações de vendas online por meio de indicadores estratégicos, apoiando decisões relacionadas a crescimento de mercado, gestão comercial e rentabilidade.
 
+<br>
+
 **📊 Indicadores Analisados**
 
 <br>
